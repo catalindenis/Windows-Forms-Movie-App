@@ -1,20 +1,20 @@
 # Windows Forms Movie App
 <img width="508" height="277" alt="image" src="https://github.com/user-attachments/assets/7c7ec595-2c25-4a0a-9bd6-1a5e5c457190" />
 
-O aplicație desktop completă pentru gestiunea datelor clienților, dezvoltată în **C#** utilizând **Windows Forms**. Proiectul a fost realizat ca aplicație practică în cadrul facultății, având ca scop aprofundarea conceptelor de Programare Orientată pe Obiect (POO) și construirea de interfețe grafice utilizator (GUI) interactive.
+Full desktop application can manage data, developed in **C#** using **Windows Forms**. The project was accomplishedpractical application in the faculty, aiming to deepen the concepts of Object Oriented Programming (OOP) and build interactive graphical user interface (GUI).
 
-## 🚀 Tehnologii Utilizate
-* **Limbaj de programare:** C#
-* **Tehnologie interfață:** Windows Forms (.NET)
-* **Mediu de dezvoltare (IDE):** Visual Studio
+## 🚀 Technologies Used
+* **Programming link:** C#
+* **Technological interface:** Windows Forms (.NET)
+* **Measured by development (IDE):** Visual Studio
 
-## 🛠️ Caracteristici Principale
-* **Operațiuni complete de tip CRUD:** Permite adăugarea de noi clienți, vizualizarea listei complete, actualizarea informațiilor existente și ștergerea înregistrărilor.
-* **Interfață grafică intuitivă:** Utilizarea controalelor native din Windows Forms (TextBox, Button, DataGridView) pentru o navigare și o manipulare ușoară a datelor.
-* **Validarea datelor:** Implementarea unei logici de backend pentru validarea câmpurilor introduse de utilizator (ex. formatul numelui sau validarea câmpurilor obligatorii) pentru a preveni erorile.
-* **Arhitectură bazată pe POO:** Organizarea curată a codului prin utilizarea claselor, încapsulării și separării logicii de business de interfața vizuală.
+## 🛠️ Main features
+* **Full CRUD operation:** Allows you to add new customers, view the full list, update existing information and register them.
+* **Intuitive graphical interface:** Use native Windows Forms controller (TextBox, Button, DataGridView) to navigate or manipulate and use data.
+* **Validate Date Zone:** Implements backend logic to validate user input field (e.g. numeric format validating required field code) to prevent errors.
+* **OOP-based architecture:** Clean organization of code by using classes, encapsulation and separating business logic from visual interface.
 
-## 📁 Structura Proiectului
-* Fișierele `.cs` conțin logica de programare și manipulare a evenimentelor (Code-Behind).
-* Fișierele `.Designer.cs` conțin definirea componentelor vizuale ale ferestrelor.
-* Fișierul `.sln` reprezintă soluția Visual Studio care permite deschiderea și rularea imediată a întregului proiect.
+## 📁 Project Structure
+* `.cs` file contains programming logic and even manipulation (Code-Behind).
+* `.Designer.cs` files contain a defined visual component and a powerful feature.
+* Solution `.sln` Visual Studio connector file that allows the entire project to be opened and run immediately.
